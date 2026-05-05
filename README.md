@@ -152,6 +152,10 @@ This segmentation helped identify customer value distribution and engagement pat
 
 ## 1. Executive Overview
 
+<p align="center">
+  <img src="Power%20BI%20PNG/UK-based%20E-commerce%201.png" width="1000">
+</p>
+
 * KPI cards
 * Monthly sales trends
 * Country performance
