@@ -163,24 +163,40 @@ This segmentation helped identify customer value distribution and engagement pat
 
 ## 2. Product Performance
 
+<p align="center">
+  <img src="Power%20BI%20PNG/UK-based%20E-commerce%202.png" width="1000">
+</p>
+
 * Product sales analysis
 * Units sold trends
 * Product contribution %
 * Product concentration insights
 
-## 3. Customer Insights
+## 3. Geography & Seasonality
 
-* Customer segmentation
-* Customer distribution by segment
-* Customer purchasing behavior
-
-## 4. Geography & Seasonality
+<p align="center">
+  <img src="Power%20BI%20PNG/UK-based%20E-commerce%203.png" width="1000">
+</p>
 
 * Revenue by country
 * Seasonal sales trends
 * Q4 growth analysis
 
+## 4. Customer Insights
+
+<p align="center">
+  <img src="Power%20BI%20PNG/UK-based%20E-commerce%204.png" width="1000">
+</p>
+
+* Customer segmentation
+* Customer distribution by segment
+* Customer purchasing behavior
+
 ## 5. Cancel Analysis
+
+<p align="center">
+  <img src="Power%20BI%20PNG/UK-based%20E-commerce%205.png" width="1000">
+</p>
 
 * Cancel rate by product
 * Cancel rate by country
