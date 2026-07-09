@@ -3,6 +3,10 @@ Analysis data of UK-based E-commerce sales transaction
 
 ## Project Overview
 
+<p align="center">
+  <img src="Power%20BI%20PNG/UK-based%20E-commerce%201.png" width="1000">
+</p>
+
 This project analyzes one year of transactional data from a UK-based e-commerce business using Power BI, Python, and DAX. The goal of the project is to transform raw sales transactions into actionable business insights through data modeling, customer segmentation, product analysis, seasonality analysis, and cancellation behavior analysis.
 
 The dashboard was designed to simulate a real business intelligence workflow used by data analysts and BI teams.
